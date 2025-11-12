@@ -6,7 +6,7 @@ Welcome to the Book Recommender Web-App! 🚀 This web application uses collabor
 
 Here’s a quick look at the system in action 👇
 
-![Demo](bookss.gif)
+![Demo](books.gif)
 
 ## Features 🌟
 
