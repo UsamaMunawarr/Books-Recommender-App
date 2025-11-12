@@ -2,6 +2,12 @@
 
 Welcome to the Book Recommender Web-App! 🚀 This web application uses collaborative filtering to recommend books based on user preferences.
 
+## 🎥 Demo
+
+Here’s a quick look at the system in action 👇
+
+![Demo](bookss.gif)
+
 ## Features 🌟
 
 - Explore the **Top 50 Books** 📖 with images, titles, authors, votes, and ratings.
